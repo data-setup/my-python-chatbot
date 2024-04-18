@@ -4,7 +4,7 @@ from chatterbot.trainers import ListTrainer
 
 # إنشاء كائن البوت مع بعض الخيارات
 bot = ChatBot(
-    'Abdalnasir',  # اسم البوت
+    'Mansour',  # اسم البوت
     read_only=False,  # يسمح للبوت بالتعلم من التجارب
     logic_adapters=[  # قائمة المنطق المستخدم
         {
