@@ -105,6 +105,3 @@ To develop and expand your Python ChatterBot project, consider the following are
 - دمج تحليل المشاعر للتعرف على العاطفة في النص وتقديم ردود تتماشى مع حالة المستخدم العاطفية.
 
 بالطبع، تنفيذ هذه التحسينات يعتمد على مواردك والأهداف الخاصة بمشروعك. من المهم أيضًا تجربة المستخدمين وجمع البيانات لتحديد المجالات التي يحتاج البوت إلى تحسين فيها.
-
-
-Implementing these improvements depends on your resources and the specific goals of your project. It's also important to experiment with users and gather data to identify areas where the bot needs improvement.
